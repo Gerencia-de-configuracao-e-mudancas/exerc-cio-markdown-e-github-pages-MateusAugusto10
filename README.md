@@ -1,1 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ABV-bUZs)
+# Exemplo-markdown github pages
+
+**exemplo de texto negrito**
+
+_exemplo de texto em italico_
+
+###### exemplo de texto de nivel 2
+
+para criar um projeto node js utilizar o comando
+
+~~~
+copiar 
+~~~
+## Texto de referencia
+
+o site do google ser acessado [aqui](https://www.ifpb.edu.br/banner/)
